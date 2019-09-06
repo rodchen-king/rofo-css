@@ -1,4 +1,6 @@
 // IE polyfill
+import 'core-js/es';
+import 'mutation-observer';
 import 'react-app-polyfill/ie9';
 import 'react-app-polyfill/stable';
 
